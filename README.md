@@ -3,9 +3,13 @@
 ### **You'll Need:**
 
 1.) **service-worker.js file** (performs caching, background sync and listens to push notifications, etc.)
+
 2.) **manifest.json file** (contains metadata)
+
 3.) **SSL encryption** on your site (in production environment)
+
 4.) **[Lighthouse Chrome Extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)**
+
 5.) **Logo image** (.png or .jpg file)
 
 ### **PWA Step by Step:**
